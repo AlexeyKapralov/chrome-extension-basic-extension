@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "test",
+  "version": "2.5.8",
+  "description": "test",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
